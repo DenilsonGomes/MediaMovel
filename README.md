@@ -10,4 +10,4 @@
 Descrição
 ==========
 
-<p>Esse script traz a implementação para a media movel em um sinal.<p/>
+<p>Esse script traz a implementação para a media movel em um sinal. Implementação em Matlab.<p/>
